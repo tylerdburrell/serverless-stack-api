@@ -15,10 +15,11 @@
   "devDependencies": {
     "aws-sdk": "^2.831.0",
     "serverless-bundle": "^3.2.0",
-    "serverless-dotenv-plugin": "^2.1.1",
     "serverless-offline": "^5.3.3"
   },
   "dependencies": {
+    "serverless-dotenv-plugin": "^3.1.0",
+    "stripe": "^8.132.0",
     "uuid": "^7.0.3"
   }
 }
